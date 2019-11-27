@@ -7,15 +7,18 @@ import "@fullcalendar/daygrid/main.css"
 import styled from "styled-components"
 
 const StyledCalendar = styled.div`
-margin: 3vh 4vw;
+margin: 0 15vw;
 & .fc-unthemed {
-  box-shadow: 4px 4px 4px 2px rgba(0,0,0,0.5);
+  box-shadow: 4px 4px 10px 2px rgba(0,0,0,0.8);
   background: #81b4b4;
   font-family: sans-serif;
   h2 {
     font-weight: 200;
   }
-
+  .fc-left {
+    margin: 2%;
+  // border: 1px solid red;
+}
    }
    & td.fc-event-container {
     //  border: 2px solid white !important;
