@@ -18,7 +18,7 @@
     "@fullcalendar/daygrid": "^4.2.0",
     "@fullcalendar/interaction": "^4.2.0",
     "@fullcalendar/react": "^4.2.0",
-    "gatsby": "^2.18.4",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-sass": "^2.1.24",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
